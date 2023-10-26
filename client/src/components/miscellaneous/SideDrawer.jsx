@@ -153,7 +153,7 @@ const SideDrawer = () => {
 
         {/* App Name Section */}
         <Text fontSize="2xl" fontFamily="Work sans">
-          Chatty Chat
+        Chat Connect
         </Text>
 
         {/* User Profile and Bell Icon Section */}
